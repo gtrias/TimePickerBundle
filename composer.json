@@ -19,5 +19,5 @@
             "gtrias\\TimePickerBundle" : ""
         }
     },
-    "target-dir" : "gtrias/TimePickerBundle",
+    "target-dir" : "gtrias/TimePickerBundle"
 }
