@@ -1,5 +1,5 @@
 {
-    "name" : "gtrias/TimePickerBundle",
+    "name" : "gtrias/time-picker-bundle",
     "description" : "jQuery Timepicker for symfony",
     "type" : "symfony-bundle",
     "authors" : [{
