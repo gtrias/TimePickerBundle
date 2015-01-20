@@ -7,7 +7,7 @@
         "email" : "genar@acs.li"
     }],
     "keywords" : [
-        "jquery, timepicker, symfony"
+        "jquery timepicker symfony"
     ],
     "license" : [
         "MIT"
@@ -20,12 +20,4 @@
         }
     },
     "target-dir" : "gtrias/TimePickerBundle",
-    "extra" : {
-		"branch-alias" : {
-            "dev-master" : "*"
-        },
-		"asset-installer-paths": {
-			"bower-asset-library": "Resources/public/js"
-		}
-    }
 }
