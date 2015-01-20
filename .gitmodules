@@ -1,0 +1,3 @@
+[submodule "Resources/public/js/jquery-timepicker"]
+	path = Resources/public/js/jquery-timepicker
+	url = git@github.com:jonthornton/jquery-timepicker.git
