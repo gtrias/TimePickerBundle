@@ -1,0 +1,30 @@
+{
+    "name" : "gtrias/TimePickerBundle",
+    "description" : "jQuery Timepicker for symfony",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Genar Trias Ortiz",
+        "email" : "genar@acs.li"
+    }],
+    "keywords" : [
+        "jquery, timepicker, symfony"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "gtrias\\TimePickerBundle" : ""
+        }
+    },
+    "target-dir" : "gtrias/TimePickerBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "*"
+        }
+    }
+}
