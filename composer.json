@@ -20,11 +20,12 @@
         }
     },
     "target-dir" : "gtrias/TimePickerBundle",
-    "repositories" : [{
-    }],
     "extra" : {
-    "branch-alias" : {
+		"branch-alias" : {
             "dev-master" : "*"
-        }
+        },
+		"asset-installer-paths": {
+			"bower-asset-library": "Resources/public/js"
+		}
     }
 }
